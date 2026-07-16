@@ -1,21 +1,108 @@
-<h1 align="center">Hi 👋, I'm Clément</h1>
-<h3 align="center">Student with passion on IT</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cfo-clement&label=Profile%20views&color=0e75b6&style=flat" alt="cfo-clement" /> </p>
+# Clément Ferrero
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfo-clement" alt="cfo-clement" /></a> </p>
+<a href="https://portfolio.labmachine.ovh">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=C1440E&center=true&vCenter=true&width=560&height=40&lines=Backend+Engineer;DevOps+Practitioner;Systems+%26+Cloud+Infrastructure;Rust+%C2%B7+Go+%C2%B7+Python" alt="Backend Engineer · DevOps · Systems · Cloud Infrastructure" />
+</a>
 
-- 🌱 I’m currently learning **data engineering**
+<p><em>Building infrastructure that disappears — services that scale,<br/>pipelines that ship without ceremony, and code that holds under pressure.</em></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://portfolio.labmachine.ovh"><img src="https://img.shields.io/badge/Portfolio-C1440E?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/cferrero"><img src="https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.npmjs.com/package/n8n-nodes-aws-athena-query-with-workgroup"><img src="https://img.shields.io/badge/npm-1F2937?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="mailto:clement.ferrero@yahoo.fr"><img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Lyon,%20France-1F2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Lyon, France" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cfo-clement&show_icons=true&locale=en&layout=compact" alt="cfo-clement" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cfo-clement&show_icons=true&locale=en" alt="cfo-clement" /></p>
+### whoami
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cfo-clement&" alt="cfo-clement" /></p>
+Backend engineer and DevOps practitioner based in **Lyon, France**. I build the systems underneath products — APIs that handle real load, pipelines that ship reliably, and infrastructure that's boring in all the right ways.
+
+Currently **Tech Lead** at a French BI / data SaaS for the social-housing sector, where I own backend architecture, infrastructure and observability. My work sits where software engineering meets operations: writing Rust and Go services, running Docker Swarm clusters, automating every repeatable process, and leaving production measurably better than I found it.
+
+```text
+focus       backend · devops · systems · cloud
+principles  observability · reproducibility · developer experience
+status      open to full-time, freelance & infra/backend consulting
+```
+
+### What I work on
+
+- **Backend services** in Rust & Go — APIs built to hold under real load
+- **Infrastructure** — Docker Swarm, Traefik, Terraform, GitOps that stays out of the way
+- **Observability** — Prometheus, Grafana, Loki & OpenTelemetry as a default, not an afterthought
+- **Cloud & FinOps** on AWS — serverless cost automation that cut non-prod IaaS spend by ~25%
+
+---
+
+### Stack
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-C1440E?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-C1440E?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-C1440E?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-C1440E?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C1440E?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=flat-square&logo=docker&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker%20Swarm-1F2937?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-1F2937?style=flat-square&logo=traefikproxy&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-1F2937?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1F2937?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1F2937?style=flat-square&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1F2937?style=flat-square&logo=githubactions&logoColor=white)
+
+**Data & Services**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1F2937?style=flat-square&logo=redis&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-1F2937?style=flat-square&logo=mqtt&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-1F2937?style=flat-square&logo=keycloak&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1F2937?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-1F2937?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-1F2937?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-1F2937?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-1F2937?style=flat-square&logo=opentelemetry&logoColor=white)
+
+---
+
+### Featured work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[n8n · AWS Athena Node](https://github.com/CFO-Clement/n8n-nodes-aws-athena-query)** · [`npm`](https://www.npmjs.com/package/n8n-nodes-aws-athena-query-with-workgroup) | Community n8n node running SQL on AWS Athena, with WorkGroup support — published to npm | `TypeScript` `n8n` `Athena` `SigV4` |
+| **[lab-core-stack](https://github.com/CFO-Clement/lab-core-stack)** | Multi-node homelab platform: observability, SSO, CI/CD and self-hosted tooling from scratch | `Docker Swarm` `Traefik` `Grafana` `Woodpecker CI` |
+| **[text-to-meme-pipeline](https://github.com/CFO-Clement/text-to-meme-pipeline)** | Text → meme image generation via Flux LoRA — Rust core with a Python ML inference sidecar | `Rust` `Python` `Docker` |
+| **Core Stack v2** 🔒 | Hardened Docker Swarm private cloud — Keycloak SSO, Cloudflare zero-trust, unified metrics & logs | `Docker Swarm` `Traefik v3` `VictoriaMetrics` `Loki` |
+| **Peak Season** 🔒 | Multi-tenant B2B CRM SaaS — API-first, per-tenant row-level security across a 5-repo stack | `FastAPI` `PostgreSQL` `TypeSpec` `React` |
+| **[NeuroKinesis](https://github.com/NeuroKinesis) · Data Platform API** 🔒 | Rust/Axum REST API for EEG research data — JWT auth, OpenAPI, dockerized integration tests | `Rust` `Axum` `PostgreSQL` `SQLx` |
+| **Conveyor Belt IoT** 🔒 | NFC package routing on ESP32 with a real-time 3D dashboard and ERP integration | `C++/FreeRTOS` `MQTT` `React/Three.js` |
+
+<sub>🔒 = private / client repository — described here, source not public.</sub>
+
+---
+
+<div align="center">
+
+### Let's build something solid.
+
+Open to full-time roles, freelance contracts, and consulting on infrastructure or backend architecture.
+
+<a href="https://portfolio.labmachine.ovh"><img src="https://img.shields.io/badge/Read%20more%20%E2%86%92-portfolio.labmachine.ovh-C1440E?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:clement.ferrero@yahoo.fr"><img src="https://img.shields.io/badge/Get%20in%20touch-1F2937?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+
+<sub>Most of my work lives in private and client repositories — the public repos here are only a slice.</sub>
+
+</div>
