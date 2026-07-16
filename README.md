@@ -3,7 +3,7 @@
 # Clément Ferrero
 
 <a href="https://portfolio.labmachine.ovh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=C1440E&center=true&vCenter=true&width=560&height=40&lines=Backend+Engineer;DevOps+Practitioner;Systems+%26+Cloud+Infrastructure;Rust+%C2%B7+Go+%C2%B7+Python" alt="Backend Engineer · DevOps · Systems · Cloud Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=C1440E&center=true&vCenter=true&width=560&height=40&lines=Backend+Engineer;DevOps+Practitioner;Systems+%26+Cloud+Infrastructure;Rust+%C2%B7+Python+%C2%B7+TypeScript" alt="Backend Engineer · DevOps · Systems · Cloud Infrastructure" />
 </a>
 
 <p><em>Building infrastructure that disappears — services that scale,<br/>pipelines that ship without ceremony, and code that holds under pressure.</em></p>
@@ -24,7 +24,7 @@
 
 Backend engineer and DevOps practitioner based in **Lyon, France**. I build the systems underneath products — APIs that handle real load, pipelines that ship reliably, and infrastructure that's boring in all the right ways.
 
-Currently **Tech Lead** at a French BI / data SaaS for the social-housing sector, where I own backend architecture, infrastructure and observability. My work sits where software engineering meets operations: writing Rust and Go services, running Docker Swarm clusters, automating every repeatable process, and leaving production measurably better than I found it.
+Currently **Tech Lead** at a French BI / data SaaS for the social-housing sector, where I own backend architecture, infrastructure and observability. My work sits where software engineering meets operations: writing Rust and Python services, running Docker Swarm clusters, automating every repeatable process, and leaving production measurably better than I found it.
 
 ```text
 focus       backend · devops · systems · cloud
@@ -34,7 +34,7 @@ status      open to full-time, freelance & infra/backend consulting
 
 ### What I work on
 
-- **Backend services** in Rust & Go — APIs built to hold under real load
+- **Backend services** in Rust & Python — APIs built to hold under real load
 - **Infrastructure** — Docker Swarm, Traefik, Terraform, GitOps that stays out of the way
 - **Observability** — Prometheus, Grafana, Loki & OpenTelemetry as a default, not an afterthought
 - **Cloud & FinOps** on AWS — serverless cost automation that cut non-prod IaaS spend by ~25%
@@ -46,7 +46,6 @@ status      open to full-time, freelance & infra/backend consulting
 **Languages**
 
 ![Rust](https://img.shields.io/badge/Rust-C1440E?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-C1440E?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-C1440E?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-C1440E?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-C1440E?style=flat-square&logo=cplusplus&logoColor=white)
