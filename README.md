@@ -89,7 +89,7 @@ shipping    infrastructure that's boring in all the right ways
 | **NeuroKinesis · Data Platform API** 🔒 | Rust/Axum REST API for EEG research data — JWT auth, OpenAPI, dockerized integration tests | `Rust` `Axum` `PostgreSQL` `SQLx` |
 | **Conveyor Belt IoT** 🔒 | NFC package routing on ESP32 with a real-time 3D dashboard and ERP integration | `C++/FreeRTOS` `MQTT` `React/Three.js` |
 
-<sub>🔒 = private/client repository — described here, source not public.</sub>
+<sub>🔒 = private</sub>
 
 ---
 
